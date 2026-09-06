@@ -21,6 +21,7 @@ Reference implementations of patterns I use in production. Rows added as each re
 | Repository | What it demonstrates |
 | --- | --- |
 | [spec-driven-dev-template](https://github.com/adeelism/spec-driven-dev-template) | Spec-driven, AI-assisted workflow — standards, spec/plan templates, and a worked example |
+| [nestjs-cognito-auth-starter](https://github.com/adeelism/nestjs-cognito-auth-starter) | NestJS auth behind a swappable identity provider (Cognito or in-memory mock) — JWT, RBAC, TypeORM/Postgres |
 
 ## Currently
 
