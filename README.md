@@ -20,7 +20,7 @@ Reference implementations of patterns I use in production. Rows added as each re
 
 | Repository | What it demonstrates |
 | --- | --- |
-| _in progress_ | |
+| [spec-driven-dev-template](https://github.com/adeelism/spec-driven-dev-template) | Spec-driven, AI-assisted workflow — standards, spec/plan templates, and a worked example |
 
 ## Currently
 
