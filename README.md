@@ -25,6 +25,7 @@ Reference implementations of patterns I use in production. Rows added as each re
 | [react-admin-console-starter](https://github.com/adeelism/react-admin-console-starter) | React 19 admin console — module-first + atomic design, permission-gated routes, TanStack Query, MSW, i18n, theming |
 | [nextjs-bff-payments-example](https://github.com/adeelism/nextjs-bff-payments-example) | Next.js BFF with idempotent order creation — duplicate-charge protection, server-side repricing, mock/Stripe, Playwright |
 | [leetcode-python](https://github.com/adeelism/leetcode-python) | 71 accepted LeetCode solutions in Python, organized by pattern with complexity notes and a pytest suite |
+| [Taskforge-backend](https://github.com/adeelism/Taskforge-backend) | FastAPI + SQLAlchemy 2.0 task API — env config, bcrypt auth, users/tasks endpoints, ~99% tested |
 
 ## Currently
 
