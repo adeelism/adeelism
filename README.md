@@ -23,6 +23,7 @@ Reference implementations of patterns I use in production. Rows added as each re
 | [spec-driven-dev-template](https://github.com/adeelism/spec-driven-dev-template) | Spec-driven, AI-assisted workflow — standards, spec/plan templates, and a worked example |
 | [nestjs-cognito-auth-starter](https://github.com/adeelism/nestjs-cognito-auth-starter) | NestJS auth behind a swappable identity provider (Cognito or in-memory mock) — JWT, RBAC, TypeORM/Postgres |
 | [react-admin-console-starter](https://github.com/adeelism/react-admin-console-starter) | React 19 admin console — module-first + atomic design, permission-gated routes, TanStack Query, MSW, i18n, theming |
+| [nextjs-bff-payments-example](https://github.com/adeelism/nextjs-bff-payments-example) | Next.js BFF with idempotent order creation — duplicate-charge protection, server-side repricing, mock/Stripe, Playwright |
 
 ## Currently
 
